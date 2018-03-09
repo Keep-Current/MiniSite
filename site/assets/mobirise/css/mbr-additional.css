@@ -1594,11 +1594,11 @@ body {
 .cid-qLIHGPkvW5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cfe4ff;
+  background-color: #C7D9D9;
 }
 
 .cid-qLIHGPkvW5 .mbr-section-subtitle {
-  color: #767676;
+  color: #115D8C;
 }
 
 .cid-qLIHGPkvW5 .formoid {
@@ -1706,4 +1706,14 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+
+.cid-qLILq3kDI2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #D9BA5F;
+}
+
+.cid-qLILq3kDI2 h2 {
+  color: #A64C38
 }
