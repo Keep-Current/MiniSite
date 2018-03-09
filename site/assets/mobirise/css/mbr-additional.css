@@ -1717,3 +1717,8 @@ body {
 .cid-qLILq3kDI2 h2 {
   color: #A64C38
 }
+
+.cid-qLILq3kDI2 h5 p {
+  float: left;
+  margin: 5px;
+}
