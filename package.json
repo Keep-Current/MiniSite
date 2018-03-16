@@ -1,0 +1,33 @@
+{
+  "name": "keep-current-landing-page",
+  "version": "1.0.0",
+  "description": "Keep Current registration form for alpha testers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liadmagen/Keep-Current-Site.git"
+  },
+  "keywords": [
+    "Keep",
+    "Current",
+    "Deep",
+    "Learning",
+    "Natural",
+    "Language",
+    "Processing",
+    "science"
+  ],
+  "author": "Liad Magen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liadmagen/Keep-Current-Site/issues"
+  },
+  "homepage": "https://github.com/liadmagen/Keep-Current-Site#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-google": "^0.9.1"
+  }
+}
