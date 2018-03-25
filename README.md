@@ -27,5 +27,4 @@ If you wish to assist in different aspects (Data Engineering / Data Science / De
 
 [david-badge]: https://david-dm.org/liadmagen/keep-current-site.svg
 [david-badge-url]: https://david-dm.org/liadmagen/keep-current-site
-[travis-badge-url]:
-https://travis-ci.org/liadmagen/Keep-Current.svg?branch=master
+[travis-badge-url]: https://travis-ci.org/liadmagen/Keep-Current-site.svg?branch=master
