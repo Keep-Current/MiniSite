@@ -1,5 +1,9 @@
 # Keep-Current - GUI
 
+<!-- Badges section here. -->
+[![Build Status](https://img.shields.io/travis/liadmagen/Keep-Current-Site/master.svg?label=travis)][travis-badge-url]
+[![Dependency Status][david-badge]][david-badge-url]
+
 ## What is Keep-Current
 
 The Keep-Current project's target is to assist with the problem of finding and retreiving news.
@@ -20,3 +24,8 @@ If you would like to assist, we would like to encourage you to:
 * Dive into our Project [Backlog](https://github.com/liadmagen/Keep-Current-Site/projects)
 
 If you wish to assist in different aspects (Data Engineering / Data Science / DevOps), we have divided the project to several additional repositories focusing on these topics.
+
+[david-badge]: https://david-dm.org/liadmagen/keep-current-site.svg
+[david-badge-url]: https://david-dm.org/liadmagen/keep-current-site
+[travis-badge-url]:
+https://travis-ci.org/liadmagen/Keep-Current.svg?branch=master
