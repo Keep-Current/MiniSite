@@ -1,17 +1,14 @@
-# Keep-Current - GUI
-
-<!-- Badges section here. -->
-[![Build Status](https://img.shields.io/travis/liadmagen/Keep-Current-Site/master.svg?label=travis)][travis-badge-url]
-[![Dependency Status][david-badge]][david-badge-url]
+# Keep-Current - Mini-site
 
 ## What is Keep-Current
 
 The Keep-Current project's target is to assist with the problem of finding and retreiving news.
 
-This repository includes the GUI part of the Keep-Current project.
-It includes the initial landing-page under the landing-page folder, which can be found [here](http://keep-current.netlify.com/), and the main site in the app folder.
+This repository includes a landing page (mini-site) that elaborates about the project and calls users to submit initial data.
+The initial landing-page is located under the landing-page folder, and a runnign website can be found [here](http://keep-current.netlify.com/).
 
 For more information about Keep-Current project, please refer to [the main repository](https://github.com/liadmagen/Keep-Current/).
+In addition, the main site app can be found in our [Keep-Current-App](https://github.com/liadmagen/Keep-Current-App) reporitory.
 
 ## How you can help
 
@@ -23,8 +20,4 @@ If you would like to assist, we would like to encourage you to:
 * Read our [Contribution Guide](CONTRIBUTING.md)
 * Dive into our Project [Backlog](https://github.com/liadmagen/Keep-Current-Site/projects)
 
-If you wish to assist in different aspects (Data Engineering / Data Science / DevOps), we have divided the project to several additional repositories focusing on these topics.
-
-[david-badge]: https://david-dm.org/liadmagen/keep-current-site.svg
-[david-badge-url]: https://david-dm.org/liadmagen/keep-current-site
-[travis-badge-url]: https://travis-ci.org/liadmagen/Keep-Current-site.svg?branch=master
+If you wish to assist in different aspects (Data Engineering / Data Science / DevOps), we have divided the project to several additional repositories focusing on these topics. Feel free to check them out!
